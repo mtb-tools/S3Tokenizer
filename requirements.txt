@@ -1,7 +1,7 @@
 pre-commit
-numpy
-torch
-onnx
+# numpy
+# torch
+# onnx
 tqdm
-torchaudio
+# torchaudio
 einops
